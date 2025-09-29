@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: #fff;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+main {
+ 
+  font-family: 'Poppins', sans-serif;
+  background-color: rgb(202, 197, 133);
+  color: rgb(5, 5, 3);
+  padding: 20px;
+}
+
+.logo img{
+   height: 50px;   /* Adjust size */
+    width: auto;
+    margin-right: 15px;
+    vertical-align: middle;
+}
+footer {
+    background-color: #3b5758;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+footer a {
+    color: #ffcc00;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
